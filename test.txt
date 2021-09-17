@@ -1,3 +1,5 @@
 Added a new comment 
 -> My test branch 1
 -> My test branch 1 commit 1
+-> My test branch 1 commit 1 after merge
+-> My test branch 1 commit 2 after merge
